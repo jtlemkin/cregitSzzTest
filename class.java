@@ -8,8 +8,7 @@ public class Class {
 
         System.out.println("The result of the next computation should be 5");
 
-        int d = (b + b);
-        int e = 6;
+        int d = (a + b);
 
         System.out.println(d);
     }

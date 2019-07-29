@@ -6,7 +6,7 @@ public class Class {
         int b = 2;
         int c = 3;
 
-        System.out.println("The result of the next computation should be 5");
+        System.out.println("The result of the next computation should be whatever I decide it should be");
 
         int d = (a + b);
 

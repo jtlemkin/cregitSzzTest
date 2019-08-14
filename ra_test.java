@@ -1,6 +1,7 @@
 public void foo() {
 	int[] a={1,2,3};
-	for(int i=0;i<=3;i++) {
+	int s = sizeof(a);
+	for(int i=0;i<=s;i++) {
 		print(a[i]);
 	}
 }
